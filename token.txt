@@ -3,4 +3,4 @@ swaptoken
 addLP
 NFT
 GAME
-
+SendTOKEN
