@@ -8,3 +8,4 @@ Faucet
 Transfer
 Yapper
 Social
+Airdrop
