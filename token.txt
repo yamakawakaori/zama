@@ -5,3 +5,4 @@ NFT
 GAME
 SendTOKEN
 Faucet
+Transfer
