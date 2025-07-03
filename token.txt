@@ -6,3 +6,4 @@ GAME
 SendTOKEN
 Faucet
 Transfer
+Yapper
