@@ -2,3 +2,5 @@ addtoken
 swaptoken
 addLP
 NFT
+GAME
+
