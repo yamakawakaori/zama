@@ -4,3 +4,4 @@ addLP
 NFT
 GAME
 SendTOKEN
+Faucet
